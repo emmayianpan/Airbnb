@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://airbnb-city-analysis.herokuapp.com/">
-    <img src="static/image/hotel.png" alt="Logo" width="80" height="80">
+    <img src="static/image/icon.png" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">Airbnb City Analysis</h3>
   <p align="center">
