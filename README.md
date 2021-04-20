@@ -71,7 +71,7 @@ The website is presented with the visulization of:
 ## Created by 
 Radhi Patel
 * [GitHub](https://github.com/radhi630)
-<br>
+
 Yi An Pan (Emma)
 * [Linkedin](https://www.linkedin.com/in/emmayianpan/) 
 * [GitHub](https://github.com/emmayianpan)
